@@ -3,7 +3,7 @@ import Image from "next/image";
 import styles from "../styles/Home.module.css";
 import React, { useEffect, useState } from "react";
 import { ethers } from "ethers";
-import myEpicNft from "../utils/MyEpicNFT.json";
+import myEpicNft from "../utils/myEpicNFT.json"
 
 // Constants
 const CONTRACT_ADDRESS = "0x67c81E566f6987Fa16fE144e71F2Bd222019a1B2";
